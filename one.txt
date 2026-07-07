@@ -1,4 +1,4 @@
 one
 Hello
 
-Feature2
+newFeature
